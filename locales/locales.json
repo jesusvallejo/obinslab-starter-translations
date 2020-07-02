@@ -1,4 +1,5 @@
 [
+    { "id": "da", "name": "Danish" },
     { "id": "de", "name": "Deutsch" },
     { "id": "en", "name": "English" },
     { "id": "es", "name": "Español" },
@@ -7,6 +8,7 @@
     { "id": "hu", "name": "Magyar" },
     { "id": "id", "name": "Bahasa Indonesia" },
     { "id": "it", "name": "Italiano" },
+    { "id": "ja", "name": "日本語" },
     { "id": "ms", "name": "Bahasa Malaysia" },
     { "id": "nl", "name": "Dutch" },
     { "id": "pl", "name": "Polski" },
@@ -15,3 +17,4 @@
     { "id": "vi", "name": "Tiếng Việt" },
     { "id": "zh-CN", "name": "简体中文" }
 ]
+
